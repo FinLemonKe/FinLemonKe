@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Fin</h1>
 <h3 align="center"></h3>
 
-- 🦄 I'm Dreeam
+- 🦄 I'm Fin
 - 🌱 I’m currently learning `Java`.
 - 📫 Discord: `finlemonke` | QQ: `3373502163`
 
