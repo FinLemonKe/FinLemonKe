@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/finlemonke">
     <img src="https://img.shields.io/badge/Discord-finlemonke-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:3373502163@qq.com">
     <img src="https://img.shields.io/badge/Email-Email%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
