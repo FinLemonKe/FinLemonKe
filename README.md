@@ -1,26 +1,33 @@
-<h1 align="center">Hi there 👋, I'm Fin</h1>
-<h3 align="center"></h3>
+<h1 align="center">Hi there! 👋 I'm Fin LemonKe</h1>
 
-- 🦄 I'm Fin
-- 🌱 I’m currently learning `Java`.
-- 📫 Discord: `finlemonke` | QQ: `3373502163`
+<p align="center">
+  <img src="/assets/github.gif">
+</p>
 
-<p align="center"><img align="center" src="/assets/github.gif"></p>
+<p align="center">
+  <a href="https://discord.com/users/finlemonke">
+    <img src="https://img.shields.io/badge/Discord-finlemonke-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Email%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FinLemonKe"></p>
+<h3 align="center">About Me</h3>
 
-<p align="center"><img align="center" src="https://count.getloli.com/get/@FinLemonKe"></p>
-<!--
-**Dreeam-qwq/Dreeam-qwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦄 I'm a passionate developer, and you can call me Fin.
+- 🌱 Currently, I'm diving into the world of `Java`.
+- 🚀 I love coding and building cool projects.
+- 🤖 Ask me about anything related to programming and technology!
 
-Here are some ideas to get you started:
+<h3 align="center">GitHub Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FinLemonKe&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<h3 align="center">Visitor Count</h3>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@FinLemonKe" alt="Visitor Count">
+</p>
