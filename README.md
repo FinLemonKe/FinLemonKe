@@ -11,6 +11,9 @@
   <a href="mailto:3373502163@qq.com">
     <img src="https://img.shields.io/badge/Email-3373502163@qq.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://user.qzone.qq.com/3373502163">
+    <img src="https://img.shields.io/badge/QQ-3373502163-brightgreen?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ">
+  </a>
 </p>
 
 <h3 align="center">About Me</h3>
