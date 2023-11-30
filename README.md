@@ -16,7 +16,7 @@
 <h3 align="center">About Me</h3>
 
 - 🦄 I'm a passionate developer, and you can call me Fin.
-- 🌱 Currently, I'm diving into the world of `Java`.
+- 🌱 Currently, I'm diving into the world of `Java`, `C/C++`, `Kotlin`.
 - 🚀 I love coding and building cool projects.
 - 🤖 Ask me about anything related to programming and technology!
 
