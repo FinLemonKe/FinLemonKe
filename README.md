@@ -29,6 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FinLemonKe&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
 </p>
 
+<h3 align="center">Top Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinLemonKe&theme=dracula&layout=compact" alt="Top Languages">
+</p>
+
 <h3 align="center">Visitor Count</h3>
 
 <p align="center">
